@@ -30,7 +30,7 @@ function MapLocationDetail({ route, navigation }) {
                     navigation.goBack();
                 }
             }}>
-                <Text>View Detail</Text>
+                <Text>Go Back</Text>
             </Button>
         </SafeAreaView>
     );
